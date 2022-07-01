@@ -27,7 +27,7 @@ following are hyperparameters that must be tuned.
 
 From training:
 
-* loss = 0.3458
+* CategoricalCrossEntropy: loss = 0.3458
 * categorical_accuracy = 0.8572 
 * accuracy = 0.9883
 * val_loss = 0.3135
@@ -36,7 +36,7 @@ From training:
 
 From test test:
 
-* loss = 0.3085
+* CategoricalCrossEntropy: loss = 0.3085
 * categorical_accuracy = 0.8766
 * accuracy = 0.9908
 
