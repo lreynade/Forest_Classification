@@ -27,18 +27,18 @@ following are hyperparameters that must be tuned.
 
 From training:
 
-loss = 0.3458
-categorical_accuracy = 0.8572 
-accuracy = 0.9883
-val_loss = 0.3135
-val_cat_accuracy = 0.8737
-val_accuracy = 0.9905
+* loss = 0.3458
+* categorical_accuracy = 0.8572 
+* accuracy = 0.9883
+* val_loss = 0.3135
+* val_cat_accuracy = 0.8737
+* val_accuracy = 0.9905
 
 From test test:
 
-loss = 0.3085
-categorical_accuracy = 0.8766
-accuracy = 0.9908
+* loss = 0.3085
+* categorical_accuracy = 0.8766
+* accuracy = 0.9908
 
 Precision, recall, and F score from training and test results are comparable.
 
